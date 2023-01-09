@@ -16,31 +16,31 @@ const _headerTitel = () => {
         <div className="star_rank_container">
             <div className="star_rank">
                 <div className="star_icon_container">
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
                 </div>
                 <p>Rated 5 Stars in Reviews</p>
             </div>
             <div className="star_rank">
                 <div className="star_icon_container">
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
                 </div>
                 <p>Rated 5 Stars in Report Guru</p>
             </div>
             <div className="star_rank">
                 <div className="star_icon_container">
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
-                    <img src="/src/images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
+                    <img src="images/icon-star.svg" alt="star-icon" />
                 </div>
                 <p>Rated 5 Stars in BestTech</p>
             </div>
